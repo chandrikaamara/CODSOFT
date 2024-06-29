@@ -3,7 +3,8 @@
 
  # Chandrika's Portfolio
 
- ![WhatsApp Image 2024-06-29 at 09 11 50_4b52b757]
+ ![WhatsApp Image 2024-06-29 at 09 11 50_4b52b757](https://github.com/chandrikaamara/CODSOFT/assets/168979438/5f74008c-ce4b-46f4-b3bb-b24a529c85fa)
+
 
 
 ## Description
