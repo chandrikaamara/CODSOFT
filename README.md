@@ -1,5 +1,67 @@
 # CODSOFT
  JUNE BATCH A55
+
+ # Chandrika's Portfolio
+
+## Description
+
+Welcome to my portfolio! This site highlights my journey as a computer science student, featuring a collection of my projects, skills, and expertise in software development and web technologies.
+
+## Key Features
+
+- **Responsive Design**: Optimized for viewing on all devices.
+- **Project Showcases**: Interactive project cards with detailed descriptions and source code links.
+- **Skills Section**: Visual representation of my technical skills using icons.
+- **Contact Information**: Easy access to my email and social media profiles.
+
+## Skills Used
+
+- **Programming Languages**: Python, Java, C++
+- **Web Development**: HTML, CSS, JavaScript
+- **Databases**: MySQL
+- **Frameworks**: Familiarity with React and Node.js
+
+## Experience
+
+My academic and project experience includes:
+
+- Developing dynamic web applications with a focus on user experience.
+- Implementing efficient algorithms and data structures.
+- Collaborating in team environments to tackle complex software challenges.
+
+## Knowledge Gained
+
+- **Front-End Development**: Mastery in HTML, CSS, and JavaScript for creating interactive user interfaces.
+- **Back-End Development**: Understanding server-side logic with Python and Java.
+- **Machine Learning & AI**: Basic knowledge in building and understanding machine learning models.
+- **Cloud Computing**: Experience in deploying applications using cloud platforms.
+- **Problem-Solving**: Enhanced ability to analyze and solve technical problems effectively.
+
+## Projects
+
+### Calculator
+A simple calculator application for basic arithmetic operations using HTML, CSS, and JavaScript.
+
+### Stopwatch
+A functional stopwatch with start, stop, and reset features.
+
+### Tic Tac Toe
+A classic two-player game developed with a focus on logic and interactivity.
+
+### To Do List
+An application for task management, allowing users to dynamically add and remove tasks.
+
+## Contact
+
+- **Email**: amarachandrika123@gmail.com
+- **LinkedIn**: [Chandrika Amara](https://www.linkedin.com/in/chandrika-amara/)
+- **Instagram**: [_cute__but__psycho___](https://www.instagram.com/_cute__but__psycho___/)
+- **GitHub**: [chandrikaamara](https://github.com/chandrikaamara)
+
+## License
+
+This project is licensed under the MIT License.
+
 # Calculator Project
 
 ![WhatsApp Image 2024-06-07 at 12 25 41_6eec1d42](https://github.com/chandrikaamara/CODSOFT/assets/168979438/bb0505ae-66a0-403f-beab-164ec4ff2846)
