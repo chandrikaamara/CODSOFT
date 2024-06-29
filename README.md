@@ -3,6 +3,9 @@
 
  # Chandrika's Portfolio
 
+ ![WhatsApp Image 2024-06-29 at 09 11 50_4b52b757]
+
+
 ## Description
 
 Welcome to my portfolio! This site highlights my journey as a computer science student, featuring a collection of my projects, skills, and expertise in software development and web technologies.
