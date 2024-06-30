@@ -155,7 +155,7 @@ section#contact {
     color: #ffffff;
     text-align:left;
   }
-  /* Social media icons styles */
+  
   .social-icons {
     margin-top: 20px;
     text-align: center;
@@ -164,14 +164,14 @@ section#contact {
   .social-icons a {
     display: inline-block;
     margin: 0 10px;
-    color: #ebdddd; /* Original color */
-    font-size: 34px; /* Increase the size of the icons */
-    transition: color 0.3s, text-shadow 0.3s; /* Add transition effect */
+    color: #ebdddd; 
+    font-size: 34px; 
+    transition: color 0.3s, text-shadow 0.3s; 
   }
   
   .social-icons a:hover {
-    color:#a5cbffe0; /* Yellow color on hover */
-    text-shadow: 0 0 10px #a5cbffe0; /* Add glow effect with yellow color on hover */
+    color:#a5cbffe0; 
+    text-shadow: 0 0 10px #a5cbffe0; 
   }
   .contact-info {
     display: flex;
