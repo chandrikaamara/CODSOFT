@@ -68,6 +68,8 @@ This project is licensed under the MIT License.
 
 # Learning New Skills Website
 
+![WhatsApp Image 2024-06-30 at 11 26 20_6a9302be](https://github.com/chandrikaamara/CODSOFT/assets/168979438/3a4de12e-f51e-434c-8df7-f8fb9e6243ea)
+
 This is a simple website designed to showcase the benefits of learning new skills, both personally and professionally. It includes sections on various benefits, resources for getting started, and contact information.
 
 ## Features
