@@ -102,7 +102,7 @@ This is a simple website designed to showcase the benefits of learning new skill
 
 ## Setup
 
-1. **Clone the Repository**: `git clone https://github.com/chandrikaamara/CODSOFT/tree/main/Task-2`
+1. **Clone the Repository**: ` https://github.com/chandrikaamara/CODSOFT/tree/main/Task-2`
 2. **Open `index.html`**: Open the file in a web browser to view the website.
 3. **Modify `styles.css`**: Customize the styles as needed.
 
