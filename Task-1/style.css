@@ -62,16 +62,16 @@ section#about {
 #about .about-content {
   display: flex;
   align-items: center;
-  gap: 40px; /* Increase the space between the text and image */
+  gap: 40px; 
   padding: 20px;
 }
 
 #about .about-text {
-  flex: 0 0 60%; /* Set the about text to take up 60% of the space */
+  flex: 0 0 60%; 
 }
 
 #about .about-image {
-  flex: 0 0 40%; /* Set the about image to take up 40% of the space */
+  flex: 0 0 40%; 
   padding: 10px;
 }
 
@@ -86,52 +86,49 @@ section#skills h2,
 section#projects h2,
 section#resume h2,
 section#contact h2 {
-  color: #ffcc00; /* Set text color to yellow */
-  text-shadow: 0 0 10px #ffcc00; /* Add glow effect with yellow color */
-  text-align: center; /* Center the text */
+  color: #ffcc00; 
+  text-shadow: 0 0 10px #ffcc00; 
+  text-align: center; 
 }
 
 
-/* Skills section styles */
 section#skills {
-  background-color: #e9e9824b; /* Background color */
+  background-color: #e9e9824b; 
   border-radius: 20px;
   color: #fff;
   text-align: center;
-  padding: 50px; /* Add padding for spacing */
+  padding: 50px; 
   width: 80%; 
-  margin: 0 auto; /* Center the section horizontally */
+  margin: 0 auto; 
 }
 
 .icon-list {
   display: flex;
-  justify-content: center; /* Center the icons horizontally */
-  align-items: center; /* Center the icons vertically */
+  justify-content: center;
+  align-items: center; 
 }
 .icon-list i {
   margin-top: 20px;
   font-size: 60px;
   margin: 20px;
-  transition: color 0.3s, transform 0.3s; /* Add transition for smooth effect */
+  transition: color 0.3s, transform 0.3s;
 }
 
 .icon-list i:hover {
-  color: #ffcc00; /* Change icon color on hover */
-  transform: scale(1.2); /* Slightly enlarge the icon on hover */
+  color: #ffcc00; 
+  transform: scale(1.2); 
 }
 
-
-/* Projects section styles */
 section#projects {
   color: #ffffff;
-  text-align: center; /* Center align the content */
+  text-align: center; 
 }
 
 .projects-container {
   display: flex;
-  flex-wrap: nowrap; /* Prevent cards from wrapping */
-  justify-content: space-between; /* Distribute cards evenly */
-  overflow-x: auto; /* Enable horizontal scrolling if needed */
+  flex-wrap: nowrap; 
+  justify-content: space-between; 
+  overflow-x: auto;
 }
 .project-card {
   background-color: rgba(221, 210, 84, 0.414);
@@ -143,12 +140,12 @@ section#projects {
   margin: 10px;
   padding: 20px;
   text-align: center;
-  transition: transform 0.3s, box-shadow 0.3s; /* Add transition for smooth effect */
+  transition: transform 0.3s, box-shadow 0.3s;
 }
 
 .project-card:hover {
-  transform: scale(1.05); /* Slightly enlarge the card on hover */
-  box-shadow: 0 6px 10px rgba(0, 0, 0, 0.2); /* Increase shadow on hover */
+  transform: scale(1.05);
+  box-shadow: 0 6px 10px rgba(0, 0, 0, 0.2);
 }
 
 
@@ -166,59 +163,58 @@ section#projects {
   margin-bottom: 10px;
 }
 
-/* Source code button styles */
+
 .source-code-btn {
   display: inline-block;
   padding: 10px 20px;
-  background-color: #ffcc00; /* Button background color */
-  color: #000; /* Button text color */
+  background-color: #ffcc00;
+  color: #000; 
   text-decoration: none;
   border-radius: 5px;
-  transition: background-color 0.3s, color 0.3s; /* Smooth transition */
+  transition: background-color 0.3s, color 0.3s; 
 }
 
 .source-code-btn:hover {
-  background-color: #e6b800; /* Darker yellow on hover */
-  color: #fff; /* White text on hover */
+  background-color: #e6b800; 
+  color: #fff;
 }
 
-/* Resume section styles */
 section#resume {
-  background-color: #e9e9824b; /* Background color */
+  background-color: #e9e9824b; 
   border-radius: 20px;
   color: #fff;
   text-align: center;
-  padding: 50px; /* Add padding for spacing */
-  width: 80%; /* Set width to 80% */
-  margin: 0 auto; /* Center the section horizontally */
+  padding: 50px; 
+  width: 80%; 
+  margin: 0 auto; 
 }
 
 section#resume p {
-  margin-bottom: 20px; /* Add spacing between paragraphs */
+  margin-bottom: 20px;
   font-size: 1.3em;
 }
 
-/* Add attractive content */
+
 section#resume h2 {
-  margin-bottom: 20px; /* Add spacing below heading */
-  text-transform: uppercase; /* Convert text to uppercase */
+  margin-bottom: 20px;
+  text-transform: uppercase;
 }
 
 section#resume .resume-content {
-  line-height: 1.6; /* Increase line height for readability */
+  line-height: 1.6; 
 }
 
 section#resume .resume-content p {
-  font-size: 1.1em; /* Increase font size */
-  margin-bottom: 15px; /* Add spacing between paragraphs */
+  font-size: 1.1em; 
+  margin-bottom: 15px; 
 }
 
-/* Contact section styles */
+
 section#contact {
   color: #ffffff;
   text-align: center;
 }
-/* Social media icons styles */
+
 .social-icons {
   margin-top: 20px;
   text-align: center;
@@ -227,18 +223,17 @@ section#contact {
 .social-icons a {
   display: inline-block;
   margin: 0 10px;
-  color: #ebdddd; /* Original color */
-  font-size: 34px; /* Increase the size of the icons */
-  transition: color 0.3s, text-shadow 0.3s; /* Add transition effect */
+  color: #ebdddd; 
+  font-size: 34px; 
+  transition: color 0.3s, text-shadow 0.3s;
 }
 
 .social-icons a:hover {
-  color: #ffcc00; /* Yellow color on hover */
-  text-shadow: 0 0 10px #ffcc00; /* Add glow effect with yellow color on hover */
+  color: #ffcc00; 
+  text-shadow: 0 0 10px #ffcc00; 
 }
 
 
-/* Footer styles */
 footer {
   background-color: #000000;
   color: #fff;
