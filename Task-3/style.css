@@ -51,8 +51,8 @@ body {
 	box-shadow: 0 4px 10px rgba(250, 247, 247, 0.77);
 }
 .calculator h1 {
-	margin: 1rem 0; /* Add some margin for spacing */
-	font-size: 2rem; /* Adjust font size as needed */
+	margin: 1rem 0; 
+	font-size: 2rem; 
 	color: black;
 	text-align: center;
 }
@@ -195,12 +195,12 @@ body {
 	}
 	.keys {
 		padding: 0.5rem;
-		grid-gap: 0.25rem; /* Reduce gap between buttons for smaller screens */
+		grid-gap: 0.25rem; 
 	}
 	.keys .key {
-		padding-top: 65%; /* Reduce padding further for smaller screens */
+		padding-top: 65%;
 	}
 	.keys .key span {
-		font-size: 1rem; /* Reduce font size for smaller screens */
+		font-size: 1rem; 
 	}
 }
