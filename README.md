@@ -66,6 +66,57 @@ An application for task management, allowing users to dynamically add and remove
 
 This project is licensed under the MIT License.
 
+# Learning New Skills Website
+
+This is a simple website designed to showcase the benefits of learning new skills, both personally and professionally. It includes sections on various benefits, resources for getting started, and contact information.
+
+## Features
+
+- **Smooth Navigation**: Fixed navigation bar for easy access to different sections.
+- **Responsive Design**: Designed to be responsive and visually appealing on all devices.
+- **Engaging Content**: Sections highlighting personal, professional, and social benefits of learning.
+- **Contact Section**: Includes contact information and social media links.
+
+## Sections
+
+1. **Home**: Introduction and overview of the benefits of learning new skills.
+2. **Personal Benefits**: Information on how learning new skills can transform personal life.
+3. **Professional Benefits**: Details on career advantages of continuous learning.
+4. **Social Benefits**: Emphasis on connecting with like-minded individuals.
+5. **Get Started**: Resources and motivation to begin learning.
+6. **Contact**: Contact details and social media links.
+
+## Technologies Used
+
+- **HTML**: Structure of the website.
+- **CSS**: Styling and layout (includes flexbox for alignment).
+- **Font Awesome**: Icons used throughout the site.
+
+## How to Use
+
+1. **Navigation**: Use the navigation bar at the top to smoothly scroll to different sections.
+2. **Explore Sections**: Each section contains relevant information and a button to learn more.
+3. **Contact**: At the bottom, find contact details and links to social media profiles.
+
+## Setup
+
+1. **Clone the Repository**: `git clone <repository-url>`
+2. **Open `index.html`**: Open the file in a web browser to view the website.
+3. **Modify `styles.css`**: Customize the styles as needed.
+
+## License
+
+This project is licensed under the MIT License.
+
+## Contact
+
+For any inquiries or feedback, please contact:
+
+- **Email**: amarachandrika123@gmail.com
+- **Phone**: 8317575282
+- **Address**: Pathapatnam, Srikakulam, Andhra Pradesh
+
+
 # Calculator Project
 
 ![WhatsApp Image 2024-06-07 at 12 25 41_6eec1d42](https://github.com/chandrikaamara/CODSOFT/assets/168979438/bb0505ae-66a0-403f-beab-164ec4ff2846)
