@@ -1,0 +1,189 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    scroll-behavior: smooth;
+}
+
+
+nav {
+    position: fixed; 
+    top: 0; 
+    left: 0;
+    width: 100%;
+    background-color: #ffffffce; 
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); 
+    z-index: 1000;
+    padding: 20px;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex; 
+    justify-content: center; 
+}
+
+nav li {
+    margin: 0 15px; 
+    position: relative; 
+}
+
+nav a {
+    color: #000000;
+    font-weight: bold;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    font-size: 18px; 
+    padding: 10px;
+    position: relative; 
+}
+
+nav a i {
+    margin-right: 5px;
+    font-size: 20px; 
+    color: #000; 
+}
+
+nav li::after {
+    content: '';
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    height: 2px; 
+    background-color: #6299d1; 
+    transform: scaleX(0);
+    transform-origin: bottom right;
+    transition: transform 0.3s ease, background-color 0.3s ease;
+}
+
+nav li:hover::after {
+    transform: scaleX(1);
+    transform-origin: bottom left;
+    background-color: #1e4770; 
+}
+
+nav a:hover {
+    color: #0f365e; 
+    text-shadow: 0 0 5px rgba(30, 144, 255, 0.7); 
+}
+
+main {
+    width: 100vw;
+    padding-top: 80px;
+}
+
+section {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; 
+    padding: 0; 
+    background-size: cover; 
+    background-position: center;
+    background-repeat: no-repeat; 
+    color: white;
+    margin: 0;
+    box-sizing: border-box; 
+}
+
+#home {
+    background-image: url('image.jpg');
+}
+
+#personal-benefits {
+    background-image: url('pic22.jpg');
+}
+
+#professional-benefits {
+    background-image: url('pic3.jpg');
+}
+
+#social-benefits {
+    background-image: url('pic4.jpg');
+}
+
+#get-started {
+    background-image: url('pic05.jpg');
+}
+
+#contact {
+    background-image: url('pic6.jpg');
+}
+
+#contact h1,
+#contact h2,
+#contact p,
+#contact button {
+    text-align: right;
+}
+
+h1 {
+    font-size: 36px;
+    margin-bottom: 10px;
+    color: #8ec2f6; 
+    text-shadow: 0 0 10px rgba(30, 144, 255, 0.7); 
+}
+
+h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+button {
+    background-color: #a5cbffe0;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+button:hover {
+    background-color: #3e438e;
+}
+
+section#contact {
+    color: #ffffff;
+    text-align:left;
+  }
+  /* Social media icons styles */
+  .social-icons {
+    margin-top: 20px;
+    text-align: center;
+  }
+  
+  .social-icons a {
+    display: inline-block;
+    margin: 0 10px;
+    color: #ebdddd; /* Original color */
+    font-size: 34px; /* Increase the size of the icons */
+    transition: color 0.3s, text-shadow 0.3s; /* Add transition effect */
+  }
+  
+  .social-icons a:hover {
+    color:#a5cbffe0; /* Yellow color on hover */
+    text-shadow: 0 0 10px #a5cbffe0; /* Add glow effect with yellow color on hover */
+  }
+  .contact-info {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap:1px;
+}
+
+
+
+footer {
+    background-color: #ffffffce;
+    padding: 10px;
+    text-align: center;
+}
